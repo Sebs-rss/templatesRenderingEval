@@ -1,4 +1,7 @@
 # Vue 3 + Vite
+## JavaScript y Bootstrap
+
+## Formulario para controlar dinámicamente un objeto, texto y propiedades :)
 
 # Se comprime sin la carpeta node_modules 
 ## para instalar las dependencias y correr la aplicación deberá correr los siguientes comandos: 
